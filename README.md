@@ -1,4 +1,4 @@
-# ec2azha
+# ec2azha 🏛️🏛️
 ec2azha : Stabilization System | HA, Availability Zones, EC2, AWS Global Infrastructure |
 
 ## Objectives
