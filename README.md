@@ -6,28 +6,28 @@ ec2azha : Stabilization System | HA, Availability Zones, EC2, AWS Global Infrast
 
 ## Deploy Stabilization System (Multiple AZ)
 
-![ec2zha001.png](./media/ec2zha001.png)
+![ec2azha001.png](./media/ec2azha001.png)
 
-![ec2zha002.png](./media/ec2zha002.png)
+![ec2azha002.png](./media/ec2azha002.png)
 
-![ec2zha003.png](./media/ec2zha003.png)
+![ec2azha003.png](./media/ec2azha003.png)
 
-![ec2zha004.png](./media/ec2zha004.png)
+![ec2azha004.png](./media/ec2azha004.png)
 
-![ec2zha005.png](./media/ec2zha005.png)
+![ec2azha005.png](./media/ec2azha005.png)
 
-![ec2zha006.png](./media/ec2zha006.png)
+![ec2azha006.png](./media/ec2azha006.png)
 
-![ec2zha007.png](./media/ec2zha007.png)
+![ec2azha007.png](./media/ec2azha007.png)
 
-![ec2zha008.png](./media/ec2zha008.png)
+![ec2azha008.png](./media/ec2azha008.png)
 
-![ec2zha009.png](./media/ec2zha009.png)
+![ec2azha009.png](./media/ec2azha009.png)
 
-![ec2zha010.png](./media/ec2zha010.png)
+![ec2azha010.png](./media/ec2azha010.png)
 
-![ec2zha011.png](./media/ec2zha011.png)
+![ec2azha011.png](./media/ec2azha011.png)
 
-![ec2zha012.png](./media/ec2zha012.png)
+![ec2azha012.png](./media/ec2azha012.png)
 
-![ec2zha013.png](./media/ec2zha013.png)
+![ec2azha013.png](./media/ec2azha013.png)
